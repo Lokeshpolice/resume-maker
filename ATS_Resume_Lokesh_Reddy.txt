@@ -1,0 +1,104 @@
+POLICE LOKESH REDDY
+Data Science & Artificial Intelligence Professional
+
+Phone: +91 79014 50537
+Email: lokesh.reddy_2026@woxsen.edu.in
+Location: Medak, Telangana, India
+LinkedIn: https://www.linkedin.com/in/police-lokesh-reddy/
+GitHub: https://github.com/Lokeshpolice
+
+---
+
+PROFESSIONAL SUMMARY
+
+Results-driven Data Science and Artificial Intelligence professional with hands-on experience in data analysis, machine learning model development, and AI implementation. Proven track record as a Data Analyst Intern at CiviGlo Innovations, contributing to product optimization through data-driven insights. Skilled in Python, SQL, Power BI, Tableau, and end-to-end ML pipeline development. Seeking Data Analyst, Data Science, or AI/ML Engineering roles to drive measurable business outcomes.
+
+---
+
+WORK EXPERIENCE
+
+Data Analyst Intern
+CiviGlo Innovations Pvt. Ltd. | Hyderabad, India | Hybrid
+November 2025 – February 2026
+
+• Analyzed product feedback data and derived actionable insights to support Snazzl's data-driven decision systems, collaborating with cross-functional product and technology teams
+• Contributed to product roadmap discussions by presenting data-backed findings to the CTO and senior stakeholders, improving clarity in feature prioritization
+• Performed structured data research and analysis tasks, maintaining consistent quality and adhering to project deadlines across a 3-month engagement
+• Maintained professional discipline in a hybrid work environment, demonstrating strong communication and remote collaboration skills
+
+Key Technologies: Python, Data Analysis, Pandas, Collaboration Platforms
+
+---
+
+PROJECTS
+
+Stock Price Prediction Using Machine Learning
+• Developed end-to-end supervised ML pipeline evaluating Linear Regression, Support Vector Machines (SVM), and Random Forest algorithms
+• Applied feature engineering and data preprocessing techniques to improve model generalization on financial datasets
+• Achieved high prediction accuracy and deployed as Flask web application with Bootstrap UI for real-time stock price forecasting
+• Technologies: Python, Scikit-learn, Flask, Machine Learning, Financial Data Analysis
+
+Hybrid Cloud Encryption Security Model
+• Designed multi-algorithm cryptographic model using AES, DES, and RSA encryption to protect sensitive data in cloud storage environments
+• Addressed multi-tenancy and access control challenges with hybrid encryption approach, strengthening data integrity
+• Reduced unauthorized access risk and enhanced user trust in cloud file storage systems
+• Technologies: Python, Cryptography, AES, DES, RSA, Cloud Security, Access Control
+
+---
+
+TECHNICAL SKILLS
+
+Programming Languages: Python, R, SQL, HTML, CSS
+Machine Learning: Scikit-learn, Linear Regression, Support Vector Machines (SVM), Random Forest, Decision Trees, Feature Engineering, Model Evaluation
+Data Analysis & Visualization: Pandas, NumPy, Power BI, Tableau, Excel, Data Cleaning, Exploratory Data Analysis (EDA)
+Artificial Intelligence & Vision: OpenCV, Microsoft Azure AI Services, Image Processing
+Web Development & Frameworks: Flask, Bootstrap, WordPress, Flutter (Basic)
+Cloud & DevOps: Microsoft Azure, Git, GitHub, Version Control
+Cybersecurity: AES Encryption, DES Encryption, RSA Encryption, Data Protection
+Tools & Platforms: Jupyter Notebook, Google Colab, VS Code, Power BI Desktop, Tableau Public
+
+---
+
+EDUCATION
+
+Bachelor of Science (BSc) — Data Science & Artificial Intelligence
+Woxsen University, Hyderabad, India
+2023 – 2026
+Majors: Data Science, Artificial Intelligence, Mathematics
+
+Intermediate (12th Grade) — Mathematics, Physics, Chemistry (MPC)
+Sri Chaitanya College
+2022 – 2023
+
+Secondary School Certificate (10th Grade)
+Geetha High School, Medak
+2021
+
+---
+
+CERTIFICATIONS & COURSES
+
+• Machine Learning with Python
+• Statistics for Data Science with Python
+• Data Analysis & Visualization with Power BI
+• Introduction to Data Analysis using Excel
+• Trees and Graphs: Basics
+• Vector Calculus for Engineers
+• Work Smarter with Microsoft Word & Excel
+
+---
+
+LANGUAGES
+
+• English — Professional Working Proficiency
+• Hindi — Full Professional Proficiency
+• Telugu — Native Speaker
+
+---
+
+ADDITIONAL INFORMATION
+
+• GitHub Portfolio: https://github.com/Lokeshpolice (Projects: Resume Maker, Weather Dashboard, and more)
+• Open to work in Data Analyst, Data Science, AI/ML, and Software Engineering roles
+• Willing to relocate for the right opportunity
+• References available upon request
